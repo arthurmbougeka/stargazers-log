@@ -3,6 +3,11 @@ body {
   margin: 2rem;
 }
 
+.error {
+  color: #b42318;
+  font-weight: 600;
+}
+
 ul {
   list-style: none;
   padding: 0;
